@@ -1,0 +1,5 @@
+data/
+frontend/node_modules
+__pycache__/
+flask_session
+node_modules
